@@ -1,3 +1,6 @@
 heyy this is the second file
+<<<<<<< HEAD
 
-This is the change made in the local repo
+=======
+This is the edit made in the github
+>>>>>>> 53133b056610919c5042b26a0a9e225f2a6e4e01
